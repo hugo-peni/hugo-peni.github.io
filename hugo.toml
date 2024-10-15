@@ -1,0 +1,9 @@
+baseURL = 'https://hugo-peni.github.io/'
+languageCode = 'en-us'
+title = 'Hugo Penichou'
+theme = 'PaperMod'
+
+[params]
+    #defaultTheme = 'dark'
+    [params.homeInfoParams]
+        Content = "## Welcome to my website! I’m a master’s student in Mechanical Engineering at the École Polytechnique Fédérale de Lausanne (EPFL), with a focus on automation and robotics. Throughout my studies, I’ve worked on exciting projects involving soft robots, origami robots, and haptic interfaces. Here, you’ll find an overview of my work."
