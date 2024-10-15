@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://hugo-peni.github.io/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/fourth/</loc>
+    <loc>https://hugo-peni.github.io/posts/fourth/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/triple/</loc>
+    <loc>https://hugo-peni.github.io/posts/triple/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://hugo-peni.github.io/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/second/</loc>
+    <loc>https://hugo-peni.github.io/posts/second/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/first/</loc>
+    <loc>https://hugo-peni.github.io/posts/first/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>https://hugo-peni.github.io/posts/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://hugo-peni.github.io/tags/</loc>
   </url>
 </urlset>

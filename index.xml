@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo Penichou</title>
-    <link>//localhost:1313/</link>
+    <link>https://hugo-peni.github.io/</link>
     <description>Recent content on Hugo Penichou</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hugo-peni.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EPFL carbon team</title>
-      <link>//localhost:1313/posts/fourth/</link>
+      <link>https://hugo-peni.github.io/posts/fourth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/fourth/</guid>
+      <guid>https://hugo-peni.github.io/posts/fourth/</guid>
       <description>&lt;p&gt;The EPFL carbon team is a student team from EPFL whose primary goal is to build a Direct Air Capture Machine (DAC)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Haptic Interface for Restoring Sensation After Nerve Damage</title>
-      <link>//localhost:1313/posts/triple/</link>
+      <link>https://hugo-peni.github.io/posts/triple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/triple/</guid>
+      <guid>https://hugo-peni.github.io/posts/triple/</guid>
       <description>&lt;p&gt;Damage to the sciatic nerve from surgery or an accident can cause loss of foot sensation, leading to walking difficulties and frequent tripping. My team and I aim to solve this by recreating foot sensation on the patient’s forearm.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Laboratory assistant work at the Reconfigurable Robotics Lab</title>
-      <link>//localhost:1313/posts/second/</link>
+      <link>https://hugo-peni.github.io/posts/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/second/</guid>
+      <guid>https://hugo-peni.github.io/posts/second/</guid>
       <description>&lt;p&gt;I was hired at the Reconfigurable Robotics Lab to support PhD candidate Mustafa Mete’s research, focusing on the manufacturing and testing of origami robots, along with the design and assembly of printed circuit boards.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pneumagami: A Pneumatically Actuated Origami-Inspired Robotic Arm</title>
-      <link>//localhost:1313/posts/first/</link>
+      <link>https://hugo-peni.github.io/posts/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/first/</guid>
+      <guid>https://hugo-peni.github.io/posts/first/</guid>
       <description></description>
     </item>
   </channel>
